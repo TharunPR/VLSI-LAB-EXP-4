@@ -47,7 +47,7 @@ end
 endmodule
 ```
 
-**OUTPUT WAVEFORM:**
+**OUTPUT:**
 
 ![Screenshot 2024-04-06 111951](https://github.com/TharunPR/VLSI-LAB-EXP-4/assets/117915125/ede889cf-b50f-480a-bfe5-920ad5c448c7)
 
@@ -80,7 +80,7 @@ end
 endmodule
 ```
 
-**OUTPUT WAVEFORM:**
+**OUTPUT:**
 
 ![Screenshot 2024-04-06 112629](https://github.com/TharunPR/VLSI-LAB-EXP-4/assets/117915125/b0ebf4b3-ac7f-4014-b56f-00d8dd10c65a)
 
@@ -108,7 +108,7 @@ end
 endmodule
 ```
 
-**OUTPUT WAVEFORM:**
+**OUTPUT:**
 
 ![Screenshot 2024-04-06 111656](https://github.com/TharunPR/VLSI-LAB-EXP-4/assets/117915125/2f6d1a48-fd1a-40ff-8239-563a66f0564f)
 
@@ -134,17 +134,15 @@ end
 endmodule
 ```
 
-**OUTPUT WAVEFORM:**
+**OUTPUT:**
 
 ![Screenshot 2024-04-06 112153](https://github.com/TharunPR/VLSI-LAB-EXP-4/assets/117915125/80e530a3-9861-4c82-b359-4e49d05f4e7c)
 
-**COUNTER:**
+**UPDOWN COUNTER:**
 
 **LOGIC DIAGRAM:**
+![Truth Table](https://github.com/TharunPR/VLSI-LAB-EXP-4/assets/117915125/3da9ea69-5745-482c-8fe7-28ab96440dcb)
 
-![image](https://github.com/navaneethans/VLSI-LAB-EXP-4/assets/6987778/a1fc5f68-aafb-49a1-93d2-779529f525fa)
-
-**UPDOWN COUNTER:**
 
 **VERILOG CODE:**
 
@@ -164,11 +162,14 @@ end
 endmodule
 ```
 
-**OUTPUT WAVEFORM:**
+**OUTPUT:**
 
 ![Screenshot 2024-04-02 133943](https://github.com/TharunPR/VLSI-LAB-EXP-4/assets/117915125/47ae4a6f-afc3-4dc7-8ebf-acb7eb0c5bc4)
 
 **MOD 10 COUNTER:**
+
+**LOGIC DIAGRAM**
+![ModNcountingsequence](https://github.com/TharunPR/VLSI-LAB-EXP-4/assets/117915125/7f0185ae-ceaf-4b2a-b9fe-7082df7cc637)
 
 **VERILOG CODE:**
 
@@ -186,11 +187,15 @@ end
 endmodule
 ```
 
-**OUTPUT WAVEFORM:**
+**OUTPUT:**
 
 ![Screenshot 2024-04-02 135812](https://github.com/TharunPR/VLSI-LAB-EXP-4/assets/117915125/a4534c02-50b7-48b1-92bc-3f98a861df1b)
 
 **RIPPLE CARRY COUNTER:**
+
+**LOGIC DIAGRAM**
+
+![6](https://github.com/TharunPR/VLSI-LAB-EXP-4/assets/117915125/ba8419e7-e456-4277-81cd-021b7bc2aaab)
 
 **VERILOG CODE:**
 
@@ -224,7 +229,7 @@ q = d;
 endmodule
 ```
 
-**OUTPUT WAVEFORM:**
+**OUTPUT:**
 
 ![Screenshot 2024-04-06 112923](https://github.com/TharunPR/VLSI-LAB-EXP-4/assets/117915125/0277de03-1cc0-4c43-afad-e00e5535a691)
 
