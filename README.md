@@ -1,12 +1,15 @@
 # SIMULATION AND IMPLEMENTATION OF SEQUENTIAL LOGIC CIRCUITS
 
-**AIM:** 
+**AIM:** To simulate and implement the following circuits using VIVADO 2023.2.<br>
+&emsp;&emsp;&emsp;&emsp;&emsp;1) SR flipflop<br>
+&emsp;&emsp;&emsp;&emsp;&emsp;2) JK flipflop<br>
+&emsp;&emsp;&emsp;&emsp;&emsp;3) T flipflop<br>
+&emsp;&emsp;&emsp;&emsp;&emsp;4) D flipflop<br>
+&emsp;&emsp;&emsp;&emsp;&emsp;5) UpDown Counter<br>
+&emsp;&emsp;&emsp;&emsp;&emsp;6) Mod 10 Counter<br>
+&emsp;&emsp;&emsp;&emsp;&emsp;7) Ripple Carry Counter<br>
 
-&emsp;&emsp;To simulate and implement SR, JK, T, D - FLIPFLOP, COUNTER DESIGN using VIVADO 2023.2.
-
-**APPARATUS REQUIRED:**
-
-&emsp;&emsp;VIVADO 2023.2
+**APPARATUS REQUIRED:** VIVADO 2023.2
 
 **PROCEDURE:**
 
@@ -23,6 +26,11 @@ STEP:7  Verify the output in the simulation window.<br>
 **LOGIC DIAGRAM:**
 
 ![image](https://github.com/navaneethans/VLSI-LAB-EXP-4/assets/6987778/77fb7f38-5649-4778-a987-8468df9ea3c3)
+
+<br>
+<br>
+<br>
+<br>
 
 **VERILOG CODE:**
 
@@ -53,9 +61,8 @@ endmodule
 
 **JK FLIPFLOP:**
 
-**LOGIC DIAGRAM:**
-
-![image](https://github.com/navaneethans/VLSI-LAB-EXP-4/assets/6987778/1510e030-4ddc-42b1-88ce-d00f6f0dc7e6)
+**LOGIC DIAGRAM:**<br>
+![JK-Flip-Flop-Circuit-using-74LS73-Truth-Table](https://github.com/TharunPR/VLSI-LAB-EXP-4/assets/117915125/fd6831bd-8497-4ffa-88ae-1b1f12b3fd3c)
 
 **VERILOG CODE:**
 
@@ -88,7 +95,7 @@ endmodule
 
 **LOGIC DIAGRAM:**
 
-![image](https://github.com/navaneethans/VLSI-LAB-EXP-4/assets/6987778/7a020379-efb1-4104-85ee-439d660baa08)
+![t-flip-flop](https://github.com/TharunPR/VLSI-LAB-EXP-4/assets/117915125/25dc641d-aa8f-4960-9222-08b771a9d876)
 
 **VERILOG CODE:**
 
@@ -116,7 +123,7 @@ endmodule
 
 **LOGIC DIAGRAM:**
 
-![image](https://github.com/navaneethans/VLSI-LAB-EXP-4/assets/6987778/dda843c5-f0a0-4b51-93a2-eaa4b7fa8aa0)
+![d-flip-flop](https://github.com/TharunPR/VLSI-LAB-EXP-4/assets/117915125/0dbcde66-9a6d-4633-91e5-95df68bb77b6)
 
 **VERILOG CODE:**
 
@@ -169,6 +176,7 @@ endmodule
 **MOD 10 COUNTER:**
 
 **LOGIC DIAGRAM**
+
 ![ModNcountingsequence](https://github.com/TharunPR/VLSI-LAB-EXP-4/assets/117915125/7f0185ae-ceaf-4b2a-b9fe-7082df7cc637)
 
 **VERILOG CODE:**
@@ -186,6 +194,7 @@ out=out+1;
 end
 endmodule
 ```
+
 
 **OUTPUT:**
 
